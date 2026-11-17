@@ -1,0 +1,3 @@
+interface:
+  display_name: "STM32 教学模型部署"
+  short_description: "Convert and deploy STM32 board models"
